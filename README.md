@@ -132,7 +132,7 @@
 
 - DURN: **187**
 
-#### Cancellation by City
+### Cancellation by City
 
 - Highest: Mumbai — **10.8K**
 
@@ -156,11 +156,11 @@
 
 ### Booking % by Platform
 
-- Others / 3rd Party: **40.91% (55K bookings)**
+- Top : Others / 3rd Party - **40.91% (55K bookings)**
 
-- MakeMyTrip: **19.99% (27K)**
+- Second : MakeMyTrip - **19.99% (27K)**
 
-- Direct Offline: **5.02% (7K)**
+- Lowest : Direct Offline - **5.02% (7K)**
 
 - ➡️ Heavy reliance on third-party platforms → lower margins & low customer ownership.
 
@@ -224,13 +224,13 @@
 ---------------------------------------------------------------------------
 
 ## 🟩 6. Key Business Insights – Summary (For Stakeholders)
-- 🔹 Mumbai is the strongest market across revenue, ADR, RevPAR, demand, and bookings.
-- 🔹 ADR being constant across 13 weeks signals absence of dynamic pricing → revenue loss.
-- 🔹 Cancellation rate consistently high (24–25%), causing a ₹199M revenue loss.
-- 🔹 Weekdays bring 70% of revenue, weekend has higher occupancy but lower volume.
-- 🔹 Luxury category and Elite room class drive maximum revenue.
-- 🔹 Direct bookings extremely low (5%), raising OTA dependency and commissions.
-- 🔹 Atliq Seasons and Hyderabad market need urgent attention due to poor revenue & ratings.
+ 🔹 Mumbai is the strongest market across revenue, ADR, RevPAR, demand, and bookings.
+ 🔹 ADR being constant across 13 weeks signals absence of dynamic pricing → revenue loss.
+ 🔹 Cancellation rate consistently high (24–25%), causing a ₹199M revenue loss.
+ 🔹 Weekdays bring 70% of revenue, weekend has higher occupancy but lower volume.
+ 🔹 Luxury category and Elite room class drive maximum revenue.
+ 🔹 Direct bookings extremely low (5%), raising OTA dependency and commissions.
+ 🔹 Atliq Seasons and Hyderabad market need urgent attention due to poor revenue & ratings.
 
 -------------------------------------------------------------------------
 
