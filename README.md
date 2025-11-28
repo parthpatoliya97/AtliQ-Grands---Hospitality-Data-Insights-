@@ -27,7 +27,7 @@
 
 - Weekend ADR : **₹12,725**
 
-- Observation : ADR remained constant across all weeks → flat pricing, no dynamic rate strategy.
+- ➡️ Observation : ADR remained constant across all weeks → flat pricing, no dynamic rate strategy.
 
 ### RevPAR (Revenue per Available Room)
 
@@ -224,13 +224,13 @@
 ---------------------------------------------------------------------------
 
 ## 🟩 6. Key Business Insights – Summary (For Stakeholders)
- 🔹 Mumbai is the strongest market across revenue, ADR, RevPAR, demand, and bookings.
- 🔹 ADR being constant across 13 weeks signals absence of dynamic pricing → revenue loss.
- 🔹 Cancellation rate consistently high (24–25%), causing a ₹199M revenue loss.
- 🔹 Weekdays bring 70% of revenue, weekend has higher occupancy but lower volume.
- 🔹 Luxury category and Elite room class drive maximum revenue.
- 🔹 Direct bookings extremely low (5%), raising OTA dependency and commissions.
- 🔹 Atliq Seasons and Hyderabad market need urgent attention due to poor revenue & ratings.
+ -  Mumbai is the strongest market across revenue, ADR, RevPAR, demand, and bookings.
+ -  ADR being constant across 13 weeks signals absence of dynamic pricing → revenue loss.
+ -  Cancellation rate consistently high (24–25%), causing a ₹199M revenue loss.
+ -  Weekdays bring 70% of revenue, weekend has higher occupancy but lower volume.
+ -  Luxury category and Elite room class drive maximum revenue.
+ -  Direct bookings extremely low (5%), raising OTA dependency and commissions.
+ -  Atliq Seasons and Hyderabad market need urgent attention due to poor revenue & ratings.
 
 -------------------------------------------------------------------------
 
