@@ -4,6 +4,26 @@
 
 ---------------------------------------------------------
 
+### ⭐ Quick Key Metrics view before Jumped into Dashboard :-
+
+- ADR → Money earned per occupied room
+
+- RevPAR → Money earned per available room
+
+- Occupancy % → Rooms filled out of total rooms
+
+- Realisation % → Bookings that actually turn into stays
+
+- DBRN → Bookings per day
+
+- DSRN → Rooms actually sold per day
+
+- DURN → Rooms used per day
+
+- Cancellation % → Rate of cancelled bookings
+
+---------------------------------------------------------
+
 ### 🟦 AtliQ Grands – Business Insights 
 
 - Total Revenue Generated :- **₹1.71B**
