@@ -31,7 +31,7 @@
 
 -------------------------------------------------------------------------
 
-## 1. Revenue & Pricing Performance
+## 1. Weekday vs Weekend Trends
 
 ### Revenue by Day Type
 
