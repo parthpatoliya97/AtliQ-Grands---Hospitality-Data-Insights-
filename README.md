@@ -373,6 +373,10 @@ Solution:
 
 - Identify sources in the “Others” bucket (agents? corporate? third-party apps?).
 
+----------------------------
+
+Live Dashboard :- ![Click Here](https://app.powerbi.com/view?r=eyJrIjoiY2VhNDNiZGMtNmYzZi00ZjMxLWE5M2ItZWRiYjYyN2E4NzhkIiwidCI6IjJhYmVkYTA4LTMyOGEtNGFlMy1iYTg1LThiNzIxZmE1Mzg3OSJ9)
+
 - Negotiate commission rates.
 
 - Shift volume to direct website by offering lower prices & loyalty incentives.
