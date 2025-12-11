@@ -372,13 +372,37 @@ Introduce curated weekend premium packages:
 Solution:
 
 - Identify sources in the “Others” bucket (agents? corporate? third-party apps?).
-
-----------------------------
-
-Live Dashboard :- ![Click Here](https://app.powerbi.com/view?r=eyJrIjoiY2VhNDNiZGMtNmYzZi00ZjMxLWE5M2ItZWRiYjYyN2E4NzhkIiwidCI6IjJhYmVkYTA4LTMyOGEtNGFlMy1iYTg1LThiNzIxZmE1Mzg3OSJ9)
-
+- 
 - Negotiate commission rates.
-
+  
 - Shift volume to direct website by offering lower prices & loyalty incentives.
 
 Expected Outcome: Clear channel strategy + reduced cost of acquisition.
+
+-----------------------
+
+Dashboard View :
+
+Live Dashboard :- ![Click Here](https://app.powerbi.com/view?r=eyJrIjoiY2VhNDNiZGMtNmYzZi00ZjMxLWE5M2ItZWRiYjYyN2E4NzhkIiwidCI6IjJhYmVkYTA4LTMyOGEtNGFlMy1iYTg1LThiNzIxZmE1Mzg3OSJ9)
+
+### Home Page
+
+![home page](https://github.com/parthpatoliya97/AtliQ-Grands---Hospitality-Data-Insights-/blob/main/images/atliq%20grands%20home%20page.png?raw=true)
+
+---------------
+
+### Executive View
+
+![executive view](https://github.com/parthpatoliya97/AtliQ-Grands---Hospitality-Data-Insights-/blob/main/images/atliq%20grands%20executive%20view.png?raw=true)
+
+----------------
+
+### Booking View
+
+![booking view](https://github.com/parthpatoliya97/AtliQ-Grands---Hospitality-Data-Insights-/blob/main/images/atliq%20grands%20booking%20view.png?raw=true)
+
+--------------
+
+### KPI's View 
+
+![kpi](https://github.com/parthpatoliya97/AtliQ-Grands---Hospitality-Data-Insights-/blob/main/images/atliq%20grands%20kpi's%20view.png?raw=true)
