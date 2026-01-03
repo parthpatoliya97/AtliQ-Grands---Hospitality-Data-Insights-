@@ -172,7 +172,7 @@
 
 - No-Show: **6,759 (5.02%)**
 
-- Cancelled Revenue: **₹199.18M**
+- Cancelled Revenue: **₹299M**
 
 ### Booking % by Platform
 
