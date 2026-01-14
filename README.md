@@ -387,6 +387,9 @@ Expected Outcome: Clear channel strategy + reduced cost of acquisition.
 
 Live Dashboard :- [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYzZmMmRiNDQtMGY0Ny00MjM1LWIyOGItMTNlOWQ1OGFhNmExIiwidCI6IjJhYmVkYTA4LTMyOGEtNGFlMy1iYTg1LThiNzIxZmE1Mzg3OSJ9)
 
+### Data Model View 
+![data model](https://github.com/parthpatoliya97/AtliQ-Grands---Hospitality-Data-Insights-/blob/main/images/Data%20Model.png?raw=true)
+
 ### Home Page
 
 ![home page](https://github.com/parthpatoliya97/AtliQ-Grands---Hospitality-Data-Insights-/blob/main/images/Home%20Page.png?raw=true)
