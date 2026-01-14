@@ -248,7 +248,7 @@
 ## 🟩 6. Key Business Insights – Summary (For Stakeholders)
  -  Mumbai is the strongest market across revenue, ADR, RevPAR, demand, and bookings.
  -  ADR being constant across 13 weeks signals absence of dynamic pricing → revenue loss.
- -  Cancellation rate consistently high (24–25%), causing a ₹199M revenue loss.
+ -  Cancellation rate consistently high (24–25%), causing a ₹299M revenue loss.
  -  Weekdays bring 70% of revenue, weekend has higher occupancy but lower volume.
  -  Luxury category and Elite room class drive maximum revenue.
  -  Direct bookings extremely low (5%), raising OTA dependency and commissions.
@@ -281,7 +281,7 @@ Solution :
 
 ## 2️⃣ Reduce High Cancellation Rate (Currently 24–25%)
 
-### Problem: 33K cancellations causing ₹199M revenue loss.
+### Problem: 33K cancellations causing ₹299M revenue loss.
 
 Solution:
 
