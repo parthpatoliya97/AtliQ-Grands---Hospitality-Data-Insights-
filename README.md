@@ -385,7 +385,7 @@ Expected Outcome: Clear channel strategy + reduced cost of acquisition.
 
 ## Dashboard View :
 
-Live Dashboard :- [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYWE4N2Y4Y2EtZTlmNC00NWQ5LTgxOGYtNGM4Mzk3YjdkMDE5IiwidCI6IjJhYmVkYTA4LTMyOGEtNGFlMy1iYTg1LThiNzIxZmE1Mzg3OSJ9)
+Live Dashboard :- [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYzZmMmRiNDQtMGY0Ny00MjM1LWIyOGItMTNlOWQ1OGFhNmExIiwidCI6IjJhYmVkYTA4LTMyOGEtNGFlMy1iYTg1LThiNzIxZmE1Mzg3OSJ9)
 
 ### Home Page
 
