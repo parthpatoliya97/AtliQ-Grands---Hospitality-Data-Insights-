@@ -389,22 +389,22 @@ Live Dashboard :- [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYzZmMmRiND
 
 ### Home Page
 
-![home page](https://github.com/parthpatoliya97/AtliQ-Grands---Hospitality-Data-Insights-/blob/main/images/atliq%20grands%20home%20page.png?raw=true)
+![home page](https://github.com/parthpatoliya97/AtliQ-Grands---Hospitality-Data-Insights-/blob/main/images/Home%20Page.png?raw=true)
 
 ---------------
 
 ### Executive View
 
-![executive view](https://github.com/parthpatoliya97/AtliQ-Grands---Hospitality-Data-Insights-/blob/main/images/atliq%20grands%20executive%20view.png?raw=true)
+![executive view](https://github.com/parthpatoliya97/AtliQ-Grands---Hospitality-Data-Insights-/blob/main/images/Executive%20View.png?raw=true)
 
 ----------------
 
 ### Booking View
 
-![booking view](https://github.com/parthpatoliya97/AtliQ-Grands---Hospitality-Data-Insights-/blob/main/images/atliq%20grands%20booking%20view.png?raw=true)
+![booking view](https://github.com/parthpatoliya97/AtliQ-Grands---Hospitality-Data-Insights-/blob/main/images/Booking%20View.png?raw=true)
 
 --------------
 
 ### KPI's View 
 
-![kpi](https://github.com/parthpatoliya97/AtliQ-Grands---Hospitality-Data-Insights-/blob/main/images/atliq%20grands%20kpi's%20view.png?raw=true)
+![kpi](https://github.com/parthpatoliya97/AtliQ-Grands---Hospitality-Data-Insights-/blob/main/images/Key%20Performance%20Metrics.png?raw=true)
